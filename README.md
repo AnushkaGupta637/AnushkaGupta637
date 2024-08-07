@@ -1,4 +1,4 @@
-<h1>**👋 Hi, I’m Anushka Gupta**</h1>
+<h1>👋 Hi, I’m Anushka Gupta</h1>
 
 👀 Interests:
 Exploring new technologies and innovations
