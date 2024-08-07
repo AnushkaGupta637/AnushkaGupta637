@@ -34,10 +34,22 @@ I love taking on new challenges!
 </div>
 
 📚 Machine Learning Libraries:
-TensorFlow | PyTorch | Scikit-Learn
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn"/>
+</div>
 
 📊 Data Analysis:
-Pandas | NumPy | Matplotlib | Seaborn
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</div>
 
 🛠️ Software Tools:
-Git | Jupyter Notebook | Overleaf | Docker
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius: 50%;"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="border-radius: 50%;"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white" alt="Overleaf" style="border-radius: 50%;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="border-radius: 50%;"/>
+</div>
